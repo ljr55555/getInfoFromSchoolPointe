@@ -1,0 +1,11 @@
+strKey = b'4SL_A571-vN7tDarKt55ch_J_G96pSdxkWSLDmT7D1M='
+
+strEWSHost = 'exchange01.rushworth.us'
+strPrimarySMTP = 'ScottAndLisa@rushworth.us'
+strUsername = 'rushworth\\ScottAndLisa'
+strPassword = 'WeNeedAPassword'
+strUsernameCrypted = b'gAAAAABdeABbm9OBn-t0ZKFwX4AA0mbAh5y6_vn7WQfS9foiA_EE38Ju3mooThm_d3A0XhrANHNq7f873jjN0IgiC4mmB8g6PKHdOHJ8gOu-l2Iz-u-Hf2Q='
+strPasswordCrypted = b'gAAAAABdeABbs-oC946fLIttO6SwBlDbhXi6LqZrJXPuWb6fRbu-YJ8o5YqCIxLXxEePsyR08QXN5jvyagXV6OsIypwNSukbHA=='
+iMaxExchangeResults = 1000
+
+listWantedCategories = ['Hinckley Elementary School', None]
